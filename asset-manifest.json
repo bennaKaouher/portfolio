@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.dd99f825.css",
+    "main.js": "/portfolio/static/js/main.a43fd706.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/monPhoto.png": "/portfolio/static/media/monPhoto.f01fa5b3b1b402e42955.png",
+    "static/media/Projet1.png": "/portfolio/static/media/Projet1.ea47bea2eaeb36ec0e06.png",
+    "static/media/Projet5.png": "/portfolio/static/media/Projet5.df39f9606d69d4c686b2.png",
+    "static/media/Projet6.png": "/portfolio/static/media/Projet6.dc5eeb966c9421fe2c75.png",
+    "static/media/Projet2.png": "/portfolio/static/media/Projet2.c9fe2c78079e4ec93ed8.png",
+    "static/media/Projet4.png": "/portfolio/static/media/Projet4.511b6b56b2e3dce29d9a.png",
+    "static/media/Projet3.png": "/portfolio/static/media/Projet3.9055a43a1f6c95e3ea7f.png",
+    "static/media/BennaKaouther_CV_Developpeuse_Full_stack.pdf": "/portfolio/static/media/BennaKaouther_CV_Developpeuse_Full_stack.08e39ab6706ec2a6c134.pdf",
+    "static/media/Close.png": "/portfolio/static/media/Close.9e12ff86b30cf635c113.png",
+    "static/media/bleu.png": "/portfolio/static/media/bleu.f36ebf8277254a51b78e.png",
+    "static/media/vertPistache.png": "/portfolio/static/media/vertPistache.d45794e883b548255df8.png",
+    "static/media/orange.png": "/portfolio/static/media/orange.3da4c9f3d85b76fc27f3.png",
+    "static/media/red.png": "/portfolio/static/media/red.026238a8210097df3631.png",
+    "static/media/rose.png": "/portfolio/static/media/rose.c090425fecbf4093b777.png",
+    "static/media/violet.png": "/portfolio/static/media/violet.c282e9a4f817fc39ec49.png",
+    "static/media/gold.png": "/portfolio/static/media/gold.96dd8c826a8885bb2979.png",
+    "static/media/turquoise.png": "/portfolio/static/media/turquoise.7a1b0b2fd4a9f10ff2a0.png",
+    "index.html": "/portfolio/index.html",
+    "main.dd99f825.css.map": "/portfolio/static/css/main.dd99f825.css.map",
+    "main.a43fd706.js.map": "/portfolio/static/js/main.a43fd706.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd99f825.css",
+    "static/js/main.a43fd706.js"
+  ]
+}
